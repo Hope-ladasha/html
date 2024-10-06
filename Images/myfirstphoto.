@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html> 
+<head> <title>My page</title>
+</head>
+<body>
+<div>
+<h1> <em>IMAGES</em> </h1>
+</div>
+<div>
+<p>Enjoy a picture of me</p>
+</div>
+
+<div>
+<img src="https://i.imgur.com/tmnixBC.jpg" alt="me">
+
+ </div>
+
+<div>
+<p>Last picture of me<p>
+ </div>
+
+<div>
+<img src="https://i.imgur.com/8yUnmqD.jpg" alt"also me">
+
+ </div>
+</body>
+</html>
