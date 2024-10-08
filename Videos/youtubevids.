@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+        <head> <title>Songs</title> </head>
+
+<body>
+	<h1>Songs I Love</h1>
+
+<div>
+	<p>1.Bastille is one of the Bands i ever fell inlove with at a very young age.
+	Below is Warmth,the acoustic version, Enjoy.</p>
+</div>
+
+<div>
+	<iframe width="560" height="300" src="https://www.youtube.com/embed/1idDZ3QHEPs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div>
+	<p>2.Wish you were gay by Billie Eilish</p>
+</div>
+
+<div>
+	<iframe width="400" height="400" src="https://www.youtube.com/embed/dPhrux42HIM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div>
+	<p>3.And finally,Labrynth</p>
+</div>
+
+<div>  
+	<iframe width="560" height="400" src="https://www.youtube.com/embed/54Al9BpiYPw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-medi
+a; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div>
+	<iframe width="560" height="400" src="https://www.youtube.com/embed/fq8ZkL3-8Kg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+</body>
+</html>
+
+
+
+	
