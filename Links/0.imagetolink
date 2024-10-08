@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Image to Link</title>
+</head>
+      <h1>Sun-EL Musician x Ami Faku - Into Ingawe</h1>
+
+<div>
+	<p>Click on the image.</p>
+
+</div>
+<div>	
+	<a href="https://youtu.be/2Xpba8B-pWA?si=Ht3dRzRjiRSjEdZJ" target="_blank">
+		<img src="https://i.imgur.com/ItaZWRM.jpg" alt="into ingawe" width"600" height"620" />
+	</a>
+</div>
+</head>
+</html>
