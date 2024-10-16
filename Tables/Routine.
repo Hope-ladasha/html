@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+	<head><title>Weekly Routine</title></head>
+	
+<body>
+ 
+	<h1>Weekly Schedule Overview</h1>
+<div>
+	<p>Staying organized and managing time effectively is crucial for a productive week. This timetable outlines my routine, helping me stay on track with tasks and goals, ensuring a balanced approach to work, personal time, and self-care. By following this schedule, I aim to maximize productivity, reduce stress, and maintain a healthy work-life balance.
+	</p>
+</div>
+
+<div>
+
+<table>
+	    <tr>
+	      <th></th>
+	      <th scope="col">Sunday</th>
+	      <th scope="col">Monday</th>
+	      <th scope="col">Tuesday</th>
+	      <th scope="col">Wednesday</th>
+	      <th scope="col">Thursday</th>
+	      <th scope="col">Friday</th>
+	      <th scope="col">Saturday</th>
+	    </tr>
+
+	   <tr>
+	      <th scope="row">Pray</th>
+	      <td>Yes</td>
+	      <td>Yes</td>
+              <td>Yes</td>
+	      <td>Yes</td>
+	      <td>Yes</td>
+	      <td>Yes</td>
+	      <td>Yes</td>
+	   </tr>
+
+	   <tr>
+              <th scope="row">Cardio</th>
+	      <td>Yes</td>
+	      <td>Yes</td>
+	      <td>Yes</td>
+	      <td>Yes</td>
+	      <td>No</td>
+	      <td>No</td>
+	      <td>No</td>
+	   </tr>
+	   
+	   <tr>
+	      <th scope="row">Read a book</th>
+	      <td>Yes</td>
+	      <td>Yes</td>
+	      <td>Yes</td>
+	      <td>No</td>
+	      <td>No</td>
+	      <td>No</td>
+	      <td>No</td>
+	  </tr>
+
+	  <tr>
+	      <th scope="row">Meet Friends</th>
+	      <td>Yes</td>
+	      <td>No</td>
+	      <td>No</td>
+	      <td>No</td>
+	      <td>Yes</td>
+	      <td>Yes</td>
+	      <td>Yes</td>
+	  </tr>
+
+
+	  <tr>
+              <th scope="row">Go cubbing</th>
+	      <td>No</td>
+	      <td>No</td>
+              <td>No</td>
+	      <td>No</td>
+	      <td>Yes</td>
+	      <td>Yes</td>
+	      <td>Yes</td>
+	  </tr>
+
+          <tr>
+	    <th scope="row">Do skin care</th>
+	    <td>Yes</td>
+	    <td>No</td>
+	    <td>No</td>
+	    <td>Yes</td>
+	    <td>No</td>
+	    <td>No</td>
+	    <td>Yes</td>
+          </tr>
+
+</table>
+</body>
+</html>
