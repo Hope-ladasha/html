@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+	<head> <title>About Hope</title> </head>
+<body>
+<h1>Fill in the following data</h1>
+<div>
+
+	<form action="">
+		<label for="first-name">First Name:</label>
+		<input type="text" name="name" id"first_name" placeholder="Enter your firstname" required>
+	<div>
+		<label for="second-name">Middle Name:</label>
+		<input type="text" name="name" id"second-name" placeholder="Enter your secondname" required>
+        </div>
+
+	<div>
+		<label for="last-name">Last Name:</label>
+	        <input type="text" name="name" id"last-name" placeholder="Enter your last name" required>
+	</div>
+	
+	<div>
+		<label for="email-account">Email Adress:</label>
+		<input type="text" name="email" id"email-account" placeholder="Enter your email account" required>
+	</div>
+	
+	<div>
+		<label for="phone-number">Phone Number:</label>
+		<input type="tel" name="phone" id"phone-number" placeholder="0712345678" required>
+	</div>
+
+	<div>	
+		<label for="age">Enter your age:</label>
+	        <input type="number" name="age" id="age" placeholder="enter your age" min="0" max="150" required>
+	</div>
+
+	<div>
+	        <label for="new-password">Create Password:</label>
+		<input type="password" name="new-password" id="new-password" placeholder="Enter a strong password" minlength="8" required>
+        <div>
+		
+		<label for="confirm-password">Confirm Password:</label>
+                <input type="password" name="confirm-password" id="donfirm-password" placeholder="re-enter password" required>
+        </div>
+
+	<div>
+		<button type="submit">submit</button>
+		
+	</form>
+</body>
+</html>
+
